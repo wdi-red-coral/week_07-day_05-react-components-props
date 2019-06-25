@@ -5,10 +5,6 @@
 The basic unit you'll be working with in ReactJS is a component. Components are
 pieces of our application that we can define once and reuse all over the place.
 
-## Prerequisites
-
-- [React Intro](https://git.generalassemb.ly/ga-wdi-boston/react)
-
 ## Objectives
 
 After this lesson, you will be able to:
@@ -16,14 +12,6 @@ After this lesson, you will be able to:
 - Describe props and why we need them.
 - Create a component that renders props.
 - Create nested components that pass props.
-
-## Preparation
-
-1. Fork and clone this repository.
- [FAQ](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone)
-1. Create a new branch, `training`, for your work.
-1. Checkout to the `training` branch.
-1. Install dependencies with `npm install`.
 
 ## Review
 
